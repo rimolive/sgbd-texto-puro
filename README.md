@@ -1,0 +1,1 @@
+# sgbd-texto-puro
