@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<layoutArquivoInterno>
+
+	<registro codigoRegistro="header" tipoClasse="TesteBean" >
+	</registro>
+
+	<registro codigoRegistro="item" tipoClasse="br.usjt.bd2.sgbd.to.OsTO" >
+		<campo nome="numero" tamanho="8" />
+		<campo nome="data" tamanho="8" formato="yyyyMMdd" />
+		<campo nome="equipamentoCodigo" tamanho="6" />
+		<campo nome="valorTotal" tamanho="10" formato="########.##" />
+	</registro>
+
+</layoutArquivoInterno>

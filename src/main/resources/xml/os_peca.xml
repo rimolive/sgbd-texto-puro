@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<layoutArquivoInterno>
+
+	<registro codigoRegistro="header" tipoClasse="TesteBean" >
+	</registro>
+
+	<registro codigoRegistro="item" tipoClasse="br.usjt.bd2.sgbd.to.PecaOsTO" >
+		<campo nome="numeroOS" tamanho="8" />
+		<campo nome="codigoPeca" tamanho="6" />
+		<campo nome="quantidade" tamanho="4" />
+	</registro>
+
+</layoutArquivoInterno>

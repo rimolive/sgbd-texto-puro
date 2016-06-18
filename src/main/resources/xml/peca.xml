@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<layoutArquivoInterno>
+
+	<registro codigoRegistro="header" tipoClasse="TesteBean" >
+	</registro>
+
+	<registro codigoRegistro="item" tipoClasse="br.usjt.bd2.sgbd.to.PecaTO" >
+		<campo nome="codigo" tamanho="6" />
+		<campo nome="descricao" tamanho="50" />
+		<campo nome="precoUnitario"	tamanho="10" formato="#######.##" />
+	</registro>
+
+</layoutArquivoInterno>

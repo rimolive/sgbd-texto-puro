@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<layoutArquivoInterno>
+
+	<registro codigoRegistro="header" tipoClasse="TesteBean" >
+	</registro>
+
+	<registro codigoRegistro="item" tipoClasse="br.usjt.bd2.sgbd.to.EquipamentoTO" >
+		<campo nome="codigo" tamanho="6" />
+		<campo nome="descricao" tamanho="50" />
+		<campo nome="dataGarantia" tamanho="8" formato="yyyyMMdd" />
+		<campo nome="clienteCodigo" tamanho="4" />
+	</registro>
+
+</layoutArquivoInterno>

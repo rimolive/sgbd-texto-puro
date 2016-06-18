@@ -1,0 +1,1000 @@
+EQ0001Notebook Positivo                                 200612310093
+EQ0002Handheld LG                                       200612310358
+EQ0003Impressora Deskjet Acer                           200612310269
+EQ0004Microcomputador Positivo                          200612310408
+EQ0005Impressora Deskjet IBM                            200612310055
+EQ0006Notebook HP                                       200612310352
+EQ0007Microcomputador LG                                200612310010
+EQ0008Notebook Acer                                     200612310413
+EQ0009Handheld Compaq                                   200612310147
+EQ0010Notebook IBM                                      200612310469
+EQ0011Microcomputador Itautec                           200612310306
+EQ0012Scanner HP                                        200612310429
+EQ0013Impressora Deskjet HP                             200612310039
+EQ0014Impressora Deskjet HP                             200612310121
+EQ0015Monitor Itautec                                   200612310018
+EQ0016Microcomputador Positivo                          200612310366
+EQ0017Handheld HP                                       200612310385
+EQ0018Scanner Itautec                                   200612310066
+EQ0019Microcomputador HP                                200612310454
+EQ0020Microcomputador Novadata                          200612310296
+EQ0021Scanner Novadata                                  200612310267
+EQ0022Microcomputador Itautec                           200612310127
+EQ0023Microcomputador Compaq                            200612310110
+EQ0024Scanner Compaq                                    200612310487
+EQ0025Impressora Deskjet Compaq                         200612310231
+EQ0026Scanner Itautec                                   200612310355
+EQ0027Impressora Deskjet Novadata                       200612310144
+EQ0028Impressora Deskjet HP                             200612310388
+EQ0029Impressora Deskjet Compaq                         200612310188
+EQ0030Scanner Compaq                                    200612310060
+EQ0031Handheld Compaq                                   200612310134
+EQ0032Handheld Acer                                     200612310353
+EQ0033Notebook Itautec                                  200612310412
+EQ0034Scanner Acer                                      200612310366
+EQ0035Monitor Compaq                                    200612310277
+EQ0036Monitor Acer                                      200612310264
+EQ0037Monitor Compaq                                    200612310177
+EQ0038Notebook Acer                                     200612310034
+EQ0039Handheld IBM                                      200612310125
+EQ0040Notebook Positivo                                 200612310441
+EQ0041Impressora Laser Novadata                         200612310402
+EQ0042Notebook Positivo                                 200612310010
+EQ0043Monitor HP                                        200612310074
+EQ0044Scanner LG                                        200612310139
+EQ0045Handheld Acer                                     200612310438
+EQ0046Monitor Acer                                      200612310362
+EQ0047Microcomputador Itautec                           200612310463
+EQ0048Notebook IBM                                      200612310079
+EQ0049Scanner Compaq                                    200612310283
+EQ0050Notebook HP                                       200612310062
+EQ0051Notebook Compaq                                   200612310367
+EQ0052Notebook Itautec                                  200612310226
+EQ0053Scanner HP                                        200612310005
+EQ0054Notebook Itautec                                  200612310019
+EQ0055Impressora Deskjet IBM                            200612310170
+EQ0056Monitor Itautec                                   200612310373
+EQ0057Scanner IBM                                       200612310427
+EQ0058Microcomputador Acer                              200612310187
+EQ0059Handheld Acer                                     200612310174
+EQ0060Handheld IBM                                      200612310453
+EQ0061Scanner Acer                                      200612310269
+EQ0062Monitor Acer                                      200612310464
+EQ0063Impressora Deskjet Compaq                         200612310240
+EQ0064Monitor LG                                        200612310315
+EQ0065Monitor Novadata                                  200612310205
+EQ0066Scanner Compaq                                    200612310435
+EQ0067Scanner Compaq                                    200612310451
+EQ0068Monitor LG                                        200612310365
+EQ0069Scanner Itautec                                   200612310353
+EQ0070Microcomputador Novadata                          200612310068
+EQ0071Monitor Positivo                                  200612310419
+EQ0072Scanner HP                                        200612310341
+EQ0073Monitor LG                                        200612310458
+EQ0074Handheld Positivo                                 200612310054
+EQ0075Notebook LG                                       200612310354
+EQ0076Microcomputador LG                                200612310165
+EQ0077Handheld Positivo                                 200612310405
+EQ0078Notebook HP                                       200612310211
+EQ0079Notebook Novadata                                 200612310193
+EQ0080Scanner Compaq                                    200612310347
+EQ0081Impressora Laser LG                               200612310172
+EQ0082Handheld LG                                       200612310486
+EQ0083Notebook HP                                       200612310477
+EQ0084Scanner Novadata                                  200612310116
+EQ0085Monitor LG                                        200612310123
+EQ0086Handheld Novadata                                 200612310019
+EQ0087Notebook HP                                       200612310383
+EQ0088Scanner LG                                        200612310225
+EQ0089Impressora Deskjet HP                             200612310121
+EQ0090Handheld Novadata                                 200612310073
+EQ0091Impressora Deskjet Novadata                       200612310045
+EQ0092Scanner Novadata                                  200612310115
+EQ0093Scanner Itautec                                   200612310448
+EQ0094Notebook Itautec                                  200612310196
+EQ0095Microcomputador Acer                              200612310238
+EQ0096Notebook IBM                                      200612310106
+EQ0097Monitor LG                                        200612310318
+EQ0098Scanner Itautec                                   200612310191
+EQ0099Impressora Laser IBM                              200612310299
+EQ0100Scanner Compaq                                    200612310003
+EQ0101Notebook Positivo                                 200612310419
+EQ0102Notebook Novadata                                 200612310010
+EQ0103Notebook LG                                       200612310058
+EQ0104Handheld LG                                       200612310107
+EQ0105Scanner LG                                        200612310279
+EQ0106Monitor Acer                                      200612310450
+EQ0107Impressora Deskjet IBM                            200612310415
+EQ0108Impressora Deskjet Itautec                        200612310239
+EQ0109Handheld IBM                                      200612310146
+EQ0110Impressora Deskjet Positivo                       200612310245
+EQ0111Scanner Compaq                                    200612310038
+EQ0112Microcomputador Positivo                          200612310434
+EQ0113Impressora Laser Itautec                          200612310498
+EQ0114Handheld HP                                       200612310013
+EQ0115Scanner Acer                                      200612310127
+EQ0116Scanner Acer                                      200612310288
+EQ0117Scanner Positivo                                  200612310281
+EQ0118Impressora Deskjet Acer                           200612310218
+EQ0119Scanner Acer                                      200612310229
+EQ0120Scanner LG                                        200612310272
+EQ0121Scanner Compaq                                    200612310091
+EQ0122Impressora Laser HP                               200612310170
+EQ0123Handheld Compaq                                   200612310422
+EQ0124Monitor LG                                        200612310075
+EQ0125Scanner Acer                                      200612310174
+EQ0126Impressora Deskjet Itautec                        200612310457
+EQ0127Scanner Positivo                                  200612310267
+EQ0128Monitor Itautec                                   200612310410
+EQ0129Handheld Itautec                                  200612310246
+EQ0130Notebook IBM                                      200612310008
+EQ0131Impressora Deskjet Acer                           200612310151
+EQ0132Handheld Itautec                                  200612310078
+EQ0133Notebook Acer                                     200612310141
+EQ0134Monitor HP                                        200612310108
+EQ0135Scanner Novadata                                  200612310316
+EQ0136Scanner LG                                        200612310127
+EQ0137Monitor Itautec                                   200612310067
+EQ0138Handheld LG                                       200612310277
+EQ0139Notebook HP                                       200612310112
+EQ0140Monitor Itautec                                   200612310122
+EQ0141Notebook Compaq                                   200612310437
+EQ0142Impressora Deskjet LG                             200612310388
+EQ0143Monitor Itautec                                   200612310040
+EQ0144Notebook LG                                       200612310318
+EQ0145Scanner Novadata                                  200612310396
+EQ0146Impressora Deskjet HP                             200612310476
+EQ0147Impressora Deskjet Novadata                       200612310290
+EQ0148Scanner HP                                        200612310068
+EQ0149Microcomputador LG                                200612310127
+EQ0150Impressora Deskjet Compaq                         200612310083
+EQ0151Impressora Deskjet HP                             200612310279
+EQ0152Monitor Novadata                                  200612310399
+EQ0153Impressora Deskjet Compaq                         200612310489
+EQ0154Microcomputador Positivo                          200612310185
+EQ0155Notebook Itautec                                  200612310229
+EQ0156Scanner Itautec                                   200612310090
+EQ0157Notebook Positivo                                 200612310030
+EQ0158Scanner LG                                        200612310041
+EQ0159Impressora Deskjet IBM                            200612310087
+EQ0160Impressora Deskjet LG                             200612310463
+EQ0161Impressora Deskjet LG                             200612310292
+EQ0162Impressora Laser IBM                              200612310277
+EQ0163Scanner Positivo                                  200612310207
+EQ0164Handheld Novadata                                 200612310336
+EQ0165Monitor Compaq                                    200612310367
+EQ0166Scanner LG                                        200612310030
+EQ0167Notebook IBM                                      200612310239
+EQ0168Monitor HP                                        200612310150
+EQ0169Handheld LG                                       200612310162
+EQ0170Notebook LG                                       200612310410
+EQ0171Notebook Novadata                                 200612310317
+EQ0172Monitor Positivo                                  200612310213
+EQ0173Notebook Acer                                     200612310093
+EQ0174Scanner Compaq                                    200612310493
+EQ0175Scanner HP                                        200612310385
+EQ0176Impressora Laser HP                               200612310158
+EQ0177Handheld Compaq                                   200612310109
+EQ0178Monitor HP                                        200612310487
+EQ0179Impressora Laser Novadata                         200612310312
+EQ0180Impressora Deskjet Novadata                       200612310127
+EQ0181Microcomputador Compaq                            200612310128
+EQ0182Microcomputador Novadata                          200612310379
+EQ0183Monitor HP                                        200612310084
+EQ0184Scanner Compaq                                    200612310219
+EQ0185Scanner HP                                        200612310092
+EQ0186Scanner Novadata                                  200612310262
+EQ0187Monitor LG                                        200612310103
+EQ0188Handheld HP                                       200612310414
+EQ0189Notebook IBM                                      200612310473
+EQ0190Microcomputador Itautec                           200612310084
+EQ0191Handheld Compaq                                   200612310087
+EQ0192Impressora Deskjet HP                             200612310329
+EQ0193Impressora Deskjet HP                             200612310445
+EQ0194Notebook Itautec                                  200612310293
+EQ0195Scanner Novadata                                  200612310143
+EQ0196Monitor HP                                        200612310259
+EQ0197Handheld Novadata                                 200612310234
+EQ0198Impressora Deskjet Acer                           200612310433
+EQ0199Notebook Itautec                                  200612310446
+EQ0200Notebook LG                                       200612310388
+EQ0201Notebook Itautec                                  200612310330
+EQ0202Scanner HP                                        200612310152
+EQ0203Impressora Deskjet Compaq                         200612310100
+EQ0204Notebook IBM                                      200612310260
+EQ0205Scanner Novadata                                  200612310170
+EQ0206Impressora Deskjet HP                             200612310216
+EQ0207Impressora Laser HP                               200612310185
+EQ0208Scanner Positivo                                  200612310327
+EQ0209Impressora Deskjet LG                             200612310499
+EQ0210Scanner Itautec                                   200612310029
+EQ0211Microcomputador HP                                200612310079
+EQ0212Handheld Acer                                     200612310371
+EQ0213Scanner Compaq                                    200612310326
+EQ0214Monitor Itautec                                   200612310327
+EQ0215Scanner Itautec                                   200612310096
+EQ0216Microcomputador HP                                200612310138
+EQ0217Monitor Itautec                                   200612310317
+EQ0218Notebook Novadata                                 200612310286
+EQ0219Scanner Compaq                                    200612310483
+EQ0220Microcomputador Novadata                          200612310219
+EQ0221Monitor Itautec                                   200612310199
+EQ0222Notebook Itautec                                  200612310480
+EQ0223Handheld IBM                                      200612310025
+EQ0224Notebook Compaq                                   200612310129
+EQ0225Microcomputador Positivo                          200612310206
+EQ0226Impressora Laser Acer                             200612310005
+EQ0227Notebook IBM                                      200612310040
+EQ0228Scanner Itautec                                   200612310378
+EQ0229Handheld Acer                                     200612310163
+EQ0230Microcomputador HP                                200612310130
+EQ0231Notebook Acer                                     200612310357
+EQ0232Scanner IBM                                       200612310006
+EQ0233Scanner IBM                                       200612310204
+EQ0234Impressora Deskjet IBM                            200612310161
+EQ0235Impressora Deskjet Positivo                       200612310408
+EQ0236Notebook Compaq                                   200612310426
+EQ0237Scanner Acer                                      200612310161
+EQ0238Handheld Novadata                                 200612310395
+EQ0239Monitor IBM                                       200612310348
+EQ0240Microcomputador Positivo                          200612310272
+EQ0241Impressora Deskjet HP                             200612310391
+EQ0242Impressora Deskjet Compaq                         200612310301
+EQ0243Notebook IBM                                      200612310380
+EQ0244Monitor Positivo                                  200612310113
+EQ0245Scanner HP                                        200612310272
+EQ0246Impressora Deskjet LG                             200612310204
+EQ0247Scanner HP                                        200612310374
+EQ0248Impressora Laser HP                               200612310203
+EQ0249Notebook LG                                       200612310264
+EQ0250Scanner HP                                        200612310378
+EQ0251Monitor LG                                        200612310082
+EQ0252Microcomputador Acer                              200612310233
+EQ0253Impressora Laser Novadata                         200612310346
+EQ0254Scanner Acer                                      200612310192
+EQ0255Scanner HP                                        200612310226
+EQ0256Notebook Acer                                     200612310464
+EQ0257Notebook Compaq                                   200612310118
+EQ0258Impressora Laser Itautec                          200612310391
+EQ0259Notebook Acer                                     200612310366
+EQ0260Handheld LG                                       200612310254
+EQ0261Monitor Novadata                                  200612310408
+EQ0262Impressora Laser LG                               200612310074
+EQ0263Impressora Deskjet HP                             200612310065
+EQ0264Notebook Positivo                                 200612310237
+EQ0265Impressora Deskjet Novadata                       200612310102
+EQ0266Handheld Itautec                                  200612310443
+EQ0267Scanner Acer                                      200612310009
+EQ0268Impressora Deskjet Novadata                       200612310455
+EQ0269Notebook HP                                       200612310424
+EQ0270Notebook Novadata                                 200612310231
+EQ0271Monitor Itautec                                   200612310309
+EQ0272Impressora Deskjet HP                             200612310441
+EQ0273Handheld Acer                                     200612310474
+EQ0274Scanner Acer                                      200612310063
+EQ0275Scanner LG                                        200612310211
+EQ0276Monitor Positivo                                  200612310293
+EQ0277Notebook Acer                                     200612310374
+EQ0278Impressora Deskjet Itautec                        200612310167
+EQ0279Microcomputador Positivo                          200612310325
+EQ0280Monitor Compaq                                    200612310438
+EQ0281Microcomputador LG                                200612310017
+EQ0282Monitor Itautec                                   200612310320
+EQ0283Impressora Deskjet Novadata                       200612310469
+EQ0284Impressora Laser Novadata                         200612310380
+EQ0285Impressora Laser Acer                             200612310329
+EQ0286Scanner Positivo                                  200612310205
+EQ0287Impressora Deskjet Compaq                         200612310016
+EQ0288Notebook LG                                       200612310289
+EQ0289Impressora Deskjet LG                             200612310259
+EQ0290Impressora Deskjet Novadata                       200612310205
+EQ0291Impressora Deskjet Compaq                         200612310287
+EQ0292Notebook Itautec                                  200612310370
+EQ0293Monitor LG                                        200612310406
+EQ0294Microcomputador IBM                               200612310447
+EQ0295Handheld Novadata                                 200612310120
+EQ0296Impressora Deskjet Acer                           200612310397
+EQ0297Scanner Itautec                                   200612310499
+EQ0298Microcomputador Itautec                           200612310149
+EQ0299Impressora Deskjet HP                             200612310411
+EQ0300Impressora Deskjet LG                             200612310195
+EQ0301Impressora Laser LG                               200612310094
+EQ0302Scanner Acer                                      200612310467
+EQ0303Impressora Laser Novadata                         200612310337
+EQ0304Handheld IBM                                      200612310035
+EQ0305Impressora Deskjet Acer                           200612310063
+EQ0306Impressora Laser HP                               200612310215
+EQ0307Microcomputador Itautec                           200612310265
+EQ0308Impressora Deskjet Positivo                       200612310488
+EQ0309Impressora Deskjet IBM                            200612310434
+EQ0310Handheld Positivo                                 200612310037
+EQ0311Monitor LG                                        200612310216
+EQ0312Scanner LG                                        200612310457
+EQ0313Monitor HP                                        200612310459
+EQ0314Notebook Itautec                                  200612310157
+EQ0315Notebook IBM                                      200612310043
+EQ0316Scanner Positivo                                  200612310127
+EQ0317Handheld LG                                       200612310029
+EQ0318Scanner Novadata                                  200612310394
+EQ0319Impressora Deskjet Acer                           200612310112
+EQ0320Scanner HP                                        200612310478
+EQ0321Monitor Compaq                                    200612310434
+EQ0322Monitor Compaq                                    200612310331
+EQ0323Scanner Compaq                                    200612310028
+EQ0324Scanner Acer                                      200612310192
+EQ0325Microcomputador Itautec                           200612310172
+EQ0326Impressora Deskjet LG                             200612310089
+EQ0327Notebook IBM                                      200612310479
+EQ0328Monitor Acer                                      200612310024
+EQ0329Impressora Laser Positivo                         200612310393
+EQ0330Handheld HP                                       200612310419
+EQ0331Handheld Positivo                                 200612310070
+EQ0332Notebook HP                                       200612310223
+EQ0333Scanner Novadata                                  200612310233
+EQ0334Notebook Compaq                                   200612310364
+EQ0335Handheld Acer                                     200612310210
+EQ0336Notebook LG                                       200612310328
+EQ0337Microcomputador Acer                              200612310412
+EQ0338Monitor Positivo                                  200612310379
+EQ0339Scanner HP                                        200612310364
+EQ0340Monitor HP                                        200612310458
+EQ0341Scanner Novadata                                  200612310093
+EQ0342Notebook HP                                       200612310294
+EQ0343Impressora Laser Itautec                          200612310236
+EQ0344Notebook Itautec                                  200612310075
+EQ0345Notebook Novadata                                 200612310373
+EQ0346Impressora Deskjet LG                             200612310237
+EQ0347Scanner Acer                                      200612310126
+EQ0348Microcomputador LG                                200612310314
+EQ0349Scanner Novadata                                  200612310090
+EQ0350Monitor Novadata                                  200612310031
+EQ0351Notebook Novadata                                 200612310241
+EQ0352Impressora Deskjet HP                             200612310345
+EQ0353Impressora Deskjet Novadata                       200612310320
+EQ0354Monitor Positivo                                  200612310022
+EQ0355Scanner Positivo                                  200612310056
+EQ0356Impressora Deskjet LG                             200612310144
+EQ0357Impressora Laser IBM                              200612310493
+EQ0358Handheld Acer                                     200612310493
+EQ0359Impressora Deskjet Compaq                         200612310357
+EQ0360Impressora Deskjet Acer                           200612310398
+EQ0361Notebook Acer                                     200612310301
+EQ0362Impressora Laser HP                               200612310055
+EQ0363Notebook LG                                       200612310065
+EQ0364Handheld HP                                       200612310323
+EQ0365Impressora Deskjet IBM                            200612310473
+EQ0366Monitor Novadata                                  200612310189
+EQ0367Impressora Laser Positivo                         200612310461
+EQ0368Impressora Deskjet Acer                           200612310321
+EQ0369Microcomputador Acer                              200612310385
+EQ0370Handheld Acer                                     200612310217
+EQ0371Impressora Deskjet Itautec                        200612310081
+EQ0372Impressora Laser LG                               200612310487
+EQ0373Handheld HP                                       200612310458
+EQ0374Notebook Acer                                     200612310043
+EQ0375Notebook Acer                                     200612310332
+EQ0376Impressora Deskjet Compaq                         200612310180
+EQ0377Monitor LG                                        200612310041
+EQ0378Notebook Acer                                     200612310430
+EQ0379Notebook Novadata                                 200612310436
+EQ0380Impressora Deskjet Compaq                         200612310226
+EQ0381Scanner Compaq                                    200612310084
+EQ0382Monitor Acer                                      200612310197
+EQ0383Impressora Laser Compaq                           200612310232
+EQ0384Monitor Compaq                                    200612310350
+EQ0385Impressora Laser Compaq                           200612310321
+EQ0386Impressora Deskjet Itautec                        200612310244
+EQ0387Handheld Itautec                                  200612310329
+EQ0388Monitor IBM                                       200612310254
+EQ0389Handheld Acer                                     200612310176
+EQ0390Scanner Itautec                                   200612310165
+EQ0391Handheld HP                                       200612310232
+EQ0392Monitor IBM                                       200612310215
+EQ0393Handheld Acer                                     200612310161
+EQ0394Impressora Deskjet Positivo                       200612310225
+EQ0395Impressora Deskjet Novadata                       200612310050
+EQ0396Monitor HP                                        200612310071
+EQ0397Impressora Deskjet Compaq                         200612310383
+EQ0398Scanner Compaq                                    200612310482
+EQ0399Monitor LG                                        200612310493
+EQ0400Impressora Laser HP                               200612310452
+EQ0401Monitor Acer                                      200612310182
+EQ0402Impressora Deskjet IBM                            200612310247
+EQ0403Impressora Laser Acer                             200612310293
+EQ0404Scanner Acer                                      200612310270
+EQ0405Monitor Itautec                                   200612310158
+EQ0406Notebook Acer                                     200612310175
+EQ0407Microcomputador Acer                              200612310078
+EQ0408Handheld Positivo                                 200612310127
+EQ0409Notebook Acer                                     200612310117
+EQ0410Impressora Deskjet Compaq                         200612310279
+EQ0411Scanner Positivo                                  200612310192
+EQ0412Monitor Itautec                                   200612310122
+EQ0413Notebook Itautec                                  200612310282
+EQ0414Monitor Novadata                                  200612310346
+EQ0415Impressora Deskjet LG                             200612310318
+EQ0416Notebook Compaq                                   200612310269
+EQ0417Scanner LG                                        200612310378
+EQ0418Scanner Acer                                      200612310400
+EQ0419Scanner HP                                        200612310358
+EQ0420Monitor LG                                        200612310207
+EQ0421Microcomputador LG                                200612310085
+EQ0422Scanner Novadata                                  200612310054
+EQ0423Notebook LG                                       200612310267
+EQ0424Microcomputador IBM                               200612310119
+EQ0425Monitor Acer                                      200612310370
+EQ0426Scanner Acer                                      200612310493
+EQ0427Notebook Compaq                                   200612310189
+EQ0428Impressora Laser LG                               200612310266
+EQ0429Monitor Compaq                                    200612310331
+EQ0430Scanner HP                                        200612310355
+EQ0431Notebook Novadata                                 200612310275
+EQ0432Microcomputador Itautec                           200612310144
+EQ0433Monitor Acer                                      200612310411
+EQ0434Notebook HP                                       200612310406
+EQ0435Handheld Acer                                     200612310440
+EQ0436Impressora Laser Itautec                          200612310077
+EQ0437Scanner Acer                                      200612310058
+EQ0438Monitor Acer                                      200612310018
+EQ0439Impressora Deskjet LG                             200612310327
+EQ0440Notebook Acer                                     200612310374
+EQ0441Scanner LG                                        200612310024
+EQ0442Impressora Laser Positivo                         200612310329
+EQ0443Scanner LG                                        200612310080
+EQ0444Impressora Laser HP                               200612310013
+EQ0445Microcomputador HP                                200612310289
+EQ0446Handheld HP                                       200612310267
+EQ0447Notebook Itautec                                  200612310419
+EQ0448Scanner HP                                        200612310045
+EQ0449Scanner HP                                        200612310478
+EQ0450Impressora Deskjet Positivo                       200612310168
+EQ0451Scanner Acer                                      200612310325
+EQ0452Microcomputador Acer                              200612310074
+EQ0453Scanner Itautec                                   200612310237
+EQ0454Scanner LG                                        200612310323
+EQ0455Microcomputador Compaq                            200612310389
+EQ0456Notebook IBM                                      200612310393
+EQ0457Monitor Positivo                                  200612310217
+EQ0458Scanner Compaq                                    200612310394
+EQ0459Monitor LG                                        200612310364
+EQ0460Impressora Deskjet Itautec                        200612310475
+EQ0461Monitor LG                                        200612310082
+EQ0462Monitor Positivo                                  200612310054
+EQ0463Monitor IBM                                       200612310385
+EQ0464Handheld Novadata                                 200612310408
+EQ0465Handheld Acer                                     200612310235
+EQ0466Microcomputador Acer                              200612310104
+EQ0467Notebook Positivo                                 200612310207
+EQ0468Impressora Laser HP                               200612310472
+EQ0469Notebook Positivo                                 200612310411
+EQ0470Handheld HP                                       200612310170
+EQ0471Notebook Acer                                     200612310406
+EQ0472Notebook Positivo                                 200612310141
+EQ0473Scanner Itautec                                   200612310110
+EQ0474Scanner Acer                                      200612310392
+EQ0475Handheld LG                                       200612310362
+EQ0476Handheld Novadata                                 200612310403
+EQ0477Handheld LG                                       200612310286
+EQ0478Impressora Deskjet IBM                            200612310193
+EQ0479Microcomputador Positivo                          200612310145
+EQ0480Monitor LG                                        200612310094
+EQ0481Notebook Novadata                                 200612310129
+EQ0482Impressora Laser Compaq                           200612310202
+EQ0483Notebook Acer                                     200612310032
+EQ0484Scanner Compaq                                    200612310450
+EQ0485Monitor LG                                        200612310194
+EQ0486Handheld IBM                                      200612310218
+EQ0487Impressora Deskjet Compaq                         200612310269
+EQ0488Handheld Novadata                                 200612310020
+EQ0489Microcomputador Positivo                          200612310453
+EQ0490Impressora Deskjet Compaq                         200612310323
+EQ0491Scanner LG                                        200612310360
+EQ0492Monitor Novadata                                  200612310420
+EQ0493Monitor HP                                        200612310377
+EQ0494Impressora Deskjet Novadata                       200612310057
+EQ0495Monitor HP                                        200612310160
+EQ0496Monitor Novadata                                  200612310290
+EQ0497Notebook Itautec                                  200612310347
+EQ0498Impressora Laser LG                               200612310017
+EQ0499Impressora Deskjet HP                             200612310402
+EQ0500Notebook Compaq                                   200612310319
+EQ0501Monitor HP                                        200612310183
+EQ0502Handheld HP                                       200612310323
+EQ0503Scanner Acer                                      200612310077
+EQ0504Microcomputador Compaq                            200612310319
+EQ0505Handheld Novadata                                 200612310324
+EQ0506Microcomputador Compaq                            200612310495
+EQ0507Microcomputador HP                                200612310358
+EQ0508Notebook HP                                       200612310269
+EQ0509Impressora Laser LG                               200612310144
+EQ0510Notebook LG                                       200612310317
+EQ0511Monitor LG                                        200612310257
+EQ0512Impressora Deskjet Itautec                        200612310311
+EQ0513Impressora Deskjet Acer                           200612310026
+EQ0514Scanner HP                                        200612310468
+EQ0515Monitor Itautec                                   200612310395
+EQ0516Impressora Deskjet Novadata                       200612310262
+EQ0517Notebook Novadata                                 200612310497
+EQ0518Handheld Novadata                                 200612310259
+EQ0519Impressora Deskjet Novadata                       200612310469
+EQ0520Scanner Compaq                                    200612310381
+EQ0521Scanner Novadata                                  200612310265
+EQ0522Impressora Laser Novadata                         200612310473
+EQ0523Monitor Acer                                      200612310327
+EQ0524Impressora Deskjet Novadata                       200612310479
+EQ0525Impressora Deskjet HP                             200612310256
+EQ0526Scanner Positivo                                  200612310442
+EQ0527Microcomputador LG                                200612310172
+EQ0528Monitor IBM                                       200612310369
+EQ0529Notebook Compaq                                   200612310029
+EQ0530Notebook LG                                       200612310389
+EQ0531Impressora Laser Itautec                          200612310280
+EQ0532Impressora Laser HP                               200612310323
+EQ0533Notebook Acer                                     200612310290
+EQ0534Handheld LG                                       200612310279
+EQ0535Monitor Novadata                                  200612310044
+EQ0536Impressora Deskjet LG                             200612310401
+EQ0537Microcomputador Itautec                           200612310167
+EQ0538Scanner HP                                        200612310256
+EQ0539Impressora Laser HP                               200612310052
+EQ0540Monitor LG                                        200612310013
+EQ0541Microcomputador LG                                200612310135
+EQ0542Scanner Itautec                                   200612310456
+EQ0543Microcomputador Acer                              200612310369
+EQ0544Microcomputador IBM                               200612310017
+EQ0545Notebook Acer                                     200612310185
+EQ0546Notebook LG                                       200612310436
+EQ0547Scanner Compaq                                    200612310274
+EQ0548Handheld Novadata                                 200612310489
+EQ0549Notebook Compaq                                   200612310408
+EQ0550Microcomputador HP                                200612310032
+EQ0551Scanner LG                                        200612310492
+EQ0552Handheld Compaq                                   200612310347
+EQ0553Handheld Acer                                     200612310379
+EQ0554Scanner Compaq                                    200612310090
+EQ0555Monitor Novadata                                  200612310221
+EQ0556Impressora Deskjet Novadata                       200612310036
+EQ0557Handheld LG                                       200612310359
+EQ0558Scanner HP                                        200612310284
+EQ0559Impressora Deskjet Compaq                         200612310323
+EQ0560Scanner Positivo                                  200612310091
+EQ0561Impressora Deskjet LG                             200612310040
+EQ0562Handheld IBM                                      200612310061
+EQ0563Monitor Acer                                      200612310044
+EQ0564Scanner Novadata                                  200612310369
+EQ0565Monitor Positivo                                  200612310026
+EQ0566Monitor Acer                                      200612310441
+EQ0567Impressora Laser Itautec                          200612310243
+EQ0568Scanner LG                                        200612310162
+EQ0569Impressora Deskjet IBM                            200612310143
+EQ0570Monitor Compaq                                    200612310438
+EQ0571Microcomputador HP                                200612310071
+EQ0572Handheld LG                                       200612310143
+EQ0573Scanner Positivo                                  200612310015
+EQ0574Notebook Novadata                                 200612310114
+EQ0575Impressora Laser LG                               200612310109
+EQ0576Notebook Itautec                                  200612310105
+EQ0577Microcomputador Compaq                            200612310275
+EQ0578Handheld Itautec                                  200612310393
+EQ0579Scanner Itautec                                   200612310348
+EQ0580Scanner Positivo                                  200612310053
+EQ0581Impressora Deskjet HP                             200612310197
+EQ0582Scanner IBM                                       200612310311
+EQ0583Microcomputador Itautec                           200612310491
+EQ0584Scanner IBM                                       200612310491
+EQ0585Handheld Compaq                                   200612310066
+EQ0586Impressora Deskjet LG                             200612310273
+EQ0587Scanner Novadata                                  200612310016
+EQ0588Notebook LG                                       200612310425
+EQ0589Scanner Positivo                                  200612310468
+EQ0590Monitor Acer                                      200612310324
+EQ0591Scanner HP                                        200612310263
+EQ0592Monitor LG                                        200612310168
+EQ0593Notebook Compaq                                   200612310082
+EQ0594Impressora Deskjet LG                             200612310004
+EQ0595Handheld IBM                                      200612310291
+EQ0596Notebook Acer                                     200612310401
+EQ0597Impressora Deskjet HP                             200612310395
+EQ0598Handheld Itautec                                  200612310014
+EQ0599Monitor Acer                                      200612310156
+EQ0600Monitor IBM                                       200612310347
+EQ0601Impressora Deskjet Positivo                       200612310499
+EQ0602Monitor HP                                        200612310448
+EQ0603Notebook LG                                       200612310305
+EQ0604Notebook Acer                                     200612310440
+EQ0605Microcomputador Acer                              200612310215
+EQ0606Handheld HP                                       200612310193
+EQ0607Monitor HP                                        200612310490
+EQ0608Notebook Itautec                                  200612310136
+EQ0609Handheld IBM                                      200612310406
+EQ0610Impressora Deskjet Positivo                       200612310131
+EQ0611Impressora Deskjet Acer                           200612310314
+EQ0612Handheld Itautec                                  200612310120
+EQ0613Monitor Novadata                                  200612310225
+EQ0614Notebook LG                                       200612310273
+EQ0615Monitor IBM                                       200612310387
+EQ0616Impressora Laser Acer                             200612310197
+EQ0617Handheld Compaq                                   200612310284
+EQ0618Impressora Deskjet IBM                            200612310091
+EQ0619Scanner Compaq                                    200612310406
+EQ0620Monitor IBM                                       200612310254
+EQ0621Impressora Deskjet Novadata                       200612310041
+EQ0622Microcomputador IBM                               200612310162
+EQ0623Impressora Deskjet IBM                            200612310423
+EQ0624Microcomputador HP                                200612310306
+EQ0625Monitor Acer                                      200612310098
+EQ0626Microcomputador Itautec                           200612310096
+EQ0627Scanner Novadata                                  200612310156
+EQ0628Monitor Acer                                      200612310089
+EQ0629Monitor Compaq                                    200612310138
+EQ0630Handheld Positivo                                 200612310161
+EQ0631Notebook Compaq                                   200612310418
+EQ0632Impressora Deskjet Compaq                         200612310135
+EQ0633Microcomputador Acer                              200612310468
+EQ0634Impressora Laser Itautec                          200612310002
+EQ0635Impressora Laser Itautec                          200612310389
+EQ0636Handheld IBM                                      200612310345
+EQ0637Microcomputador HP                                200612310394
+EQ0638Impressora Laser Positivo                         200612310116
+EQ0639Notebook Positivo                                 200612310282
+EQ0640Scanner Novadata                                  200612310131
+EQ0641Microcomputador HP                                200612310125
+EQ0642Impressora Laser Acer                             200612310246
+EQ0643Impressora Laser LG                               200612310153
+EQ0644Notebook IBM                                      200612310075
+EQ0645Monitor IBM                                       200612310083
+EQ0646Scanner IBM                                       200612310047
+EQ0647Microcomputador Itautec                           200612310146
+EQ0648Scanner Itautec                                   200612310397
+EQ0649Scanner Itautec                                   200612310219
+EQ0650Scanner Positivo                                  200612310250
+EQ0651Scanner Acer                                      200612310266
+EQ0652Notebook Acer                                     200612310298
+EQ0653Scanner Acer                                      200612310464
+EQ0654Monitor Itautec                                   200612310232
+EQ0655Microcomputador Compaq                            200612310380
+EQ0656Scanner Acer                                      200612310498
+EQ0657Impressora Deskjet LG                             200612310149
+EQ0658Handheld LG                                       200612310388
+EQ0659Microcomputador LG                                200612310376
+EQ0660Impressora Deskjet Acer                           200612310038
+EQ0661Notebook Itautec                                  200612310167
+EQ0662Impressora Laser HP                               200612310389
+EQ0663Monitor LG                                        200612310455
+EQ0664Handheld Acer                                     200612310094
+EQ0665Monitor Acer                                      200612310282
+EQ0666Impressora Deskjet Positivo                       200612310228
+EQ0667Notebook Compaq                                   200612310319
+EQ0668Notebook HP                                       200612310323
+EQ0669Scanner Itautec                                   200612310099
+EQ0670Handheld LG                                       200612310083
+EQ0671Impressora Deskjet LG                             200612310070
+EQ0672Notebook Itautec                                  200612310308
+EQ0673Notebook IBM                                      200612310360
+EQ0674Impressora Laser Compaq                           200612310315
+EQ0675Handheld Itautec                                  200612310200
+EQ0676Monitor LG                                        200612310404
+EQ0677Monitor Novadata                                  200612310022
+EQ0678Notebook Compaq                                   200612310353
+EQ0679Handheld Compaq                                   200612310459
+EQ0680Notebook Itautec                                  200612310198
+EQ0681Monitor IBM                                       200612310459
+EQ0682Handheld IBM                                      200612310068
+EQ0683Microcomputador Itautec                           200612310107
+EQ0684Impressora Deskjet HP                             200612310275
+EQ0685Notebook Itautec                                  200612310314
+EQ0686Impressora Deskjet Compaq                         200612310297
+EQ0687Impressora Deskjet Itautec                        200612310325
+EQ0688Notebook Itautec                                  200612310144
+EQ0689Notebook LG                                       200612310123
+EQ0690Notebook Acer                                     200612310122
+EQ0691Impressora Deskjet Compaq                         200612310066
+EQ0692Impressora Deskjet HP                             200612310288
+EQ0693Notebook Compaq                                   200612310181
+EQ0694Impressora Deskjet HP                             200612310382
+EQ0695Impressora Deskjet Itautec                        200612310396
+EQ0696Impressora Deskjet LG                             200612310404
+EQ0697Scanner LG                                        200612310208
+EQ0698Impressora Deskjet Itautec                        200612310458
+EQ0699Notebook HP                                       200612310444
+EQ0700Notebook Novadata                                 200612310468
+EQ0701Handheld Itautec                                  200612310290
+EQ0702Handheld Positivo                                 200612310239
+EQ0703Scanner Compaq                                    200612310308
+EQ0704Impressora Deskjet Novadata                       200612310019
+EQ0705Microcomputador Acer                              200612310082
+EQ0706Handheld HP                                       200612310184
+EQ0707Notebook HP                                       200612310290
+EQ0708Microcomputador Acer                              200612310251
+EQ0709Handheld HP                                       200612310435
+EQ0710Scanner HP                                        200612310478
+EQ0711Scanner LG                                        200612310095
+EQ0712Notebook Acer                                     200612310138
+EQ0713Impressora Deskjet Compaq                         200612310076
+EQ0714Microcomputador HP                                200612310009
+EQ0715Scanner HP                                        200612310290
+EQ0716Notebook IBM                                      200612310207
+EQ0717Impressora Deskjet Novadata                       200612310338
+EQ0718Scanner Novadata                                  200612310221
+EQ0719Microcomputador Acer                              200612310372
+EQ0720Impressora Laser Acer                             200612310242
+EQ0721Monitor Novadata                                  200612310024
+EQ0722Impressora Deskjet HP                             200612310231
+EQ0723Handheld Itautec                                  200612310415
+EQ0724Notebook Novadata                                 200612310362
+EQ0725Monitor Itautec                                   200612310204
+EQ0726Scanner Acer                                      200612310052
+EQ0727Monitor Novadata                                  200612310034
+EQ0728Microcomputador Acer                              200612310095
+EQ0729Microcomputador Novadata                          200612310345
+EQ0730Monitor Itautec                                   200612310441
+EQ0731Monitor LG                                        200612310088
+EQ0732Scanner Acer                                      200612310072
+EQ0733Handheld IBM                                      200612310483
+EQ0734Impressora Laser Positivo                         200612310493
+EQ0735Scanner Compaq                                    200612310084
+EQ0736Scanner Positivo                                  200612310133
+EQ0737Handheld HP                                       200612310405
+EQ0738Impressora Laser Positivo                         200612310133
+EQ0739Scanner LG                                        200612310212
+EQ0740Scanner LG                                        200612310383
+EQ0741Monitor Acer                                      200612310143
+EQ0742Impressora Deskjet Compaq                         200612310343
+EQ0743Notebook Compaq                                   200612310135
+EQ0744Monitor LG                                        200612310329
+EQ0745Impressora Deskjet LG                             200612310328
+EQ0746Handheld Positivo                                 200612310022
+EQ0747Impressora Deskjet IBM                            200612310243
+EQ0748Scanner Novadata                                  200612310142
+EQ0749Microcomputador Itautec                           200612310427
+EQ0750Microcomputador Acer                              200612310265
+EQ0751Microcomputador Compaq                            200612310471
+EQ0752Scanner Compaq                                    200612310398
+EQ0753Impressora Deskjet Acer                           200612310084
+EQ0754Impressora Deskjet Itautec                        200612310099
+EQ0755Microcomputador Compaq                            200612310085
+EQ0756Notebook Novadata                                 200612310092
+EQ0757Microcomputador Novadata                          200612310295
+EQ0758Monitor Compaq                                    200612310053
+EQ0759Handheld Itautec                                  200612310056
+EQ0760Handheld HP                                       200612310031
+EQ0761Impressora Deskjet HP                             200612310444
+EQ0762Monitor Positivo                                  200612310241
+EQ0763Handheld Acer                                     200612310041
+EQ0764Microcomputador HP                                200612310432
+EQ0765Handheld Compaq                                   200612310241
+EQ0766Impressora Deskjet HP                             200612310234
+EQ0767Monitor Itautec                                   200612310350
+EQ0768Monitor IBM                                       200612310117
+EQ0769Notebook Positivo                                 200612310407
+EQ0770Handheld HP                                       200612310149
+EQ0771Impressora Deskjet Itautec                        200612310228
+EQ0772Handheld HP                                       200612310324
+EQ0773Scanner Acer                                      200612310221
+EQ0774Microcomputador Positivo                          200612310400
+EQ0775Microcomputador IBM                               200612310394
+EQ0776Notebook LG                                       200612310240
+EQ0777Monitor Acer                                      200612310279
+EQ0778Handheld Novadata                                 200612310432
+EQ0779Handheld HP                                       200612310421
+EQ0780Scanner Itautec                                   200612310482
+EQ0781Monitor Itautec                                   200612310330
+EQ0782Monitor HP                                        200612310162
+EQ0783Impressora Laser LG                               200612310154
+EQ0784Impressora Deskjet Itautec                        200612310420
+EQ0785Impressora Deskjet HP                             200612310467
+EQ0786Monitor Positivo                                  200612310299
+EQ0787Impressora Deskjet Novadata                       200612310042
+EQ0788Scanner LG                                        200612310492
+EQ0789Notebook Acer                                     200612310190
+EQ0790Microcomputador HP                                200612310015
+EQ0791Scanner Positivo                                  200612310314
+EQ0792Handheld Compaq                                   200612310418
+EQ0793Impressora Deskjet Novadata                       200612310493
+EQ0794Scanner Novadata                                  200612310066
+EQ0795Notebook Itautec                                  200612310184
+EQ0796Notebook Novadata                                 200612310133
+EQ0797Handheld LG                                       200612310280
+EQ0798Microcomputador Compaq                            200612310191
+EQ0799Impressora Deskjet Novadata                       200612310388
+EQ0800Monitor Itautec                                   200612310064
+EQ0801Scanner Itautec                                   200612310398
+EQ0802Handheld Novadata                                 200612310082
+EQ0803Handheld HP                                       200612310408
+EQ0804Handheld Itautec                                  200612310410
+EQ0805Monitor Itautec                                   200612310124
+EQ0806Handheld HP                                       200612310129
+EQ0807Handheld Acer                                     200612310237
+EQ0808Impressora Laser Novadata                         200612310353
+EQ0809Handheld Acer                                     200612310042
+EQ0810Scanner Itautec                                   200612310153
+EQ0811Impressora Laser Itautec                          200612310277
+EQ0812Impressora Deskjet Acer                           200612310158
+EQ0813Scanner HP                                        200612310342
+EQ0814Impressora Deskjet LG                             200612310210
+EQ0815Notebook LG                                       200612310388
+EQ0816Impressora Deskjet Itautec                        200612310216
+EQ0817Monitor LG                                        200612310296
+EQ0818Notebook LG                                       200612310090
+EQ0819Impressora Deskjet Compaq                         200612310079
+EQ0820Microcomputador Novadata                          200612310431
+EQ0821Handheld IBM                                      200612310102
+EQ0822Scanner Positivo                                  200612310225
+EQ0823Scanner Compaq                                    200612310382
+EQ0824Notebook Compaq                                   200612310066
+EQ0825Handheld Acer                                     200612310316
+EQ0826Impressora Deskjet Itautec                        200612310281
+EQ0827Notebook Novadata                                 200612310492
+EQ0828Handheld IBM                                      200612310055
+EQ0829Handheld Acer                                     200612310448
+EQ0830Monitor Itautec                                   200612310206
+EQ0831Scanner IBM                                       200612310234
+EQ0832Monitor Acer                                      200612310415
+EQ0833Impressora Deskjet Novadata                       200612310389
+EQ0834Monitor Itautec                                   200612310410
+EQ0835Microcomputador HP                                200612310030
+EQ0836Impressora Deskjet Novadata                       200612310499
+EQ0837Impressora Deskjet Acer                           200612310373
+EQ0838Notebook LG                                       200612310356
+EQ0839Microcomputador Novadata                          200612310046
+EQ0840Impressora Deskjet Compaq                         200612310467
+EQ0841Impressora Deskjet HP                             200612310421
+EQ0842Impressora Deskjet Acer                           200612310431
+EQ0843Notebook Novadata                                 200612310481
+EQ0844Scanner Compaq                                    200612310407
+EQ0845Impressora Deskjet Compaq                         200612310245
+EQ0846Impressora Laser Itautec                          200612310155
+EQ0847Monitor Positivo                                  200612310270
+EQ0848Notebook HP                                       200612310276
+EQ0849Monitor HP                                        200612310259
+EQ0850Impressora Laser IBM                              200612310395
+EQ0851Scanner LG                                        200612310279
+EQ0852Notebook Compaq                                   200612310331
+EQ0853Impressora Deskjet HP                             200612310461
+EQ0854Handheld Novadata                                 200612310038
+EQ0855Handheld LG                                       200612310134
+EQ0856Monitor Acer                                      200612310156
+EQ0857Notebook Compaq                                   200612310447
+EQ0858Impressora Deskjet Compaq                         200612310356
+EQ0859Monitor Novadata                                  200612310156
+EQ0860Impressora Deskjet HP                             200612310366
+EQ0861Scanner HP                                        200612310301
+EQ0862Microcomputador LG                                200612310152
+EQ0863Handheld Compaq                                   200612310321
+EQ0864Scanner Itautec                                   200612310138
+EQ0865Notebook Acer                                     200612310030
+EQ0866Monitor Novadata                                  200612310376
+EQ0867Impressora Laser Itautec                          200612310287
+EQ0868Notebook Compaq                                   200612310112
+EQ0869Scanner LG                                        200612310025
+EQ0870Monitor Novadata                                  200612310183
+EQ0871Scanner Itautec                                   200612310109
+EQ0872Scanner Compaq                                    200612310378
+EQ0873Handheld Compaq                                   200612310204
+EQ0874Monitor Positivo                                  200612310428
+EQ0875Scanner Compaq                                    200612310141
+EQ0876Handheld Novadata                                 200612310419
+EQ0877Handheld Novadata                                 200612310219
+EQ0878Handheld Compaq                                   200612310079
+EQ0879Handheld Compaq                                   200612310311
+EQ0880Scanner Compaq                                    200612310482
+EQ0881Handheld HP                                       200612310048
+EQ0882Microcomputador HP                                200612310033
+EQ0883Handheld Compaq                                   200612310166
+EQ0884Scanner LG                                        200612310166
+EQ0885Scanner Acer                                      200612310321
+EQ0886Handheld HP                                       200612310237
+EQ0887Microcomputador HP                                200612310114
+EQ0888Impressora Deskjet Acer                           200612310274
+EQ0889Scanner Novadata                                  200612310020
+EQ0890Monitor Itautec                                   200612310485
+EQ0891Handheld Acer                                     200612310088
+EQ0892Scanner Compaq                                    200612310243
+EQ0893Handheld Itautec                                  200612310047
+EQ0894Notebook Compaq                                   200612310247
+EQ0895Monitor Novadata                                  200612310109
+EQ0896Monitor Novadata                                  200612310089
+EQ0897Notebook HP                                       200612310234
+EQ0898Handheld Itautec                                  200612310247
+EQ0899Notebook HP                                       200612310075
+EQ0900Scanner Novadata                                  200612310221
+EQ0901Monitor Acer                                      200612310198
+EQ0902Notebook Positivo                                 200612310227
+EQ0903Handheld Novadata                                 200612310163
+EQ0904Notebook Itautec                                  200612310195
+EQ0905Scanner Acer                                      200612310332
+EQ0906Impressora Deskjet IBM                            200612310327
+EQ0907Notebook HP                                       200612310275
+EQ0908Impressora Deskjet Novadata                       200612310064
+EQ0909Microcomputador Compaq                            200612310498
+EQ0910Monitor HP                                        200612310081
+EQ0911Impressora Deskjet Acer                           200612310081
+EQ0912Notebook HP                                       200612310472
+EQ0913Monitor Novadata                                  200612310376
+EQ0914Impressora Laser Compaq                           200612310437
+EQ0915Impressora Laser Compaq                           200612310294
+EQ0916Impressora Deskjet Itautec                        200612310498
+EQ0917Monitor HP                                        200612310188
+EQ0918Microcomputador Novadata                          200612310118
+EQ0919Notebook LG                                       200612310442
+EQ0920Notebook HP                                       200612310453
+EQ0921Monitor Itautec                                   200612310415
+EQ0922Scanner IBM                                       200612310144
+EQ0923Notebook LG                                       200612310052
+EQ0924Handheld Itautec                                  200612310060
+EQ0925Impressora Deskjet HP                             200612310098
+EQ0926Handheld Acer                                     200612310023
+EQ0927Scanner LG                                        200612310415
+EQ0928Notebook LG                                       200612310336
+EQ0929Notebook Novadata                                 200612310280
+EQ0930Monitor Novadata                                  200612310433
+EQ0931Scanner HP                                        200612310077
+EQ0932Impressora Laser Acer                             200612310474
+EQ0933Handheld Compaq                                   200612310399
+EQ0934Notebook HP                                       200612310471
+EQ0935Notebook Acer                                     200612310340
+EQ0936Impressora Deskjet Positivo                       200612310046
+EQ0937Monitor Novadata                                  200612310224
+EQ0938Notebook Itautec                                  200612310273
+EQ0939Monitor Compaq                                    200612310291
+EQ0940Handheld Acer                                     200612310487
+EQ0941Microcomputador LG                                200612310018
+EQ0942Scanner LG                                        200612310472
+EQ0943Impressora Deskjet Compaq                         200612310433
+EQ0944Microcomputador Compaq                            200612310344
+EQ0945Scanner Itautec                                   200612310329
+EQ0946Notebook HP                                       200612310129
+EQ0947Impressora Deskjet Novadata                       200612310036
+EQ0948Scanner Acer                                      200612310314
+EQ0949Impressora Laser IBM                              200612310025
+EQ0950Notebook Acer                                     200612310026
+EQ0951Impressora Deskjet IBM                            200612310499
+EQ0952Impressora Laser HP                               200612310471
+EQ0953Notebook IBM                                      200612310444
+EQ0954Impressora Deskjet Acer                           200612310330
+EQ0955Impressora Deskjet Itautec                        200612310173
+EQ0956Monitor Novadata                                  200612310318
+EQ0957Scanner Itautec                                   200612310488
+EQ0958Impressora Laser Novadata                         200612310195
+EQ0959Notebook Compaq                                   200612310229
+EQ0960Impressora Laser Itautec                          200612310173
+EQ0961Microcomputador IBM                               200612310094
+EQ0962Scanner Acer                                      200612310243
+EQ0963Scanner Novadata                                  200612310421
+EQ0964Impressora Deskjet LG                             200612310070
+EQ0965Microcomputador HP                                200612310396
+EQ0966Impressora Laser HP                               200612310443
+EQ0967Monitor HP                                        200612310277
+EQ0968Impressora Laser Compaq                           200612310410
+EQ0969Impressora Deskjet LG                             200612310490
+EQ0970Notebook IBM                                      200612310351
+EQ0971Impressora Deskjet Positivo                       200612310209
+EQ0972Notebook HP                                       200612310309
+EQ0973Notebook Novadata                                 200612310282
+EQ0974Scanner Compaq                                    200612310258
+EQ0975Microcomputador HP                                200612310084
+EQ0976Monitor LG                                        200612310420
+EQ0977Notebook Positivo                                 200612310291
+EQ0978Microcomputador Itautec                           200612310169
+EQ0979Monitor Positivo                                  200612310289
+EQ0980Notebook LG                                       200612310384
+EQ0981Monitor Itautec                                   200612310183
+EQ0982Scanner Itautec                                   200612310113
+EQ0983Impressora Deskjet Acer                           200612310140
+EQ0984Notebook Itautec                                  200612310163
+EQ0985Notebook Itautec                                  200612310281
+EQ0986Scanner Itautec                                   200612310235
+EQ0987Handheld Novadata                                 200612310071
+EQ0988Monitor Positivo                                  200612310052
+EQ0989Scanner LG                                        200612310402
+EQ0990Impressora Deskjet IBM                            200612310184
+EQ0991Scanner Itautec                                   200612310245
+EQ0992Monitor Itautec                                   200612310073
+EQ0993Scanner Acer                                      200612310006
+EQ0994Scanner Novadata                                  200612310486
+EQ0995Notebook LG                                       200612310155
+EQ0996Scanner Positivo                                  200612310054
+EQ0997Monitor LG                                        200612310388
+EQ0998Microcomputador HP                                200612310478
+EQ0999Impressora Deskjet Itautec                        200612310132
+EQ1000Notebook Compaq                                   200612310345

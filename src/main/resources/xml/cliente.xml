@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<layoutArquivoInterno>
+
+	<registro codigoRegistro="header" tipoClasse="TesteBean" >
+	</registro>
+
+	<registro codigoRegistro="item" tipoClasse="br.usjt.bd2.sgbd.to.ClienteTO" >
+		<campo nome="codigo" tamanho="4" />
+		<campo nome="nome" tamanho="50" />
+		<campo nome="telefone" tamanho="10" />
+		<campo nome="dataUltimoContato" tamanho="8" formato="yyyyMMdd" />
+	</registro>
+
+</layoutArquivoInterno>
